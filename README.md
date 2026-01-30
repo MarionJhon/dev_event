@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Tech Stack
+
+This project is built with the following technologies:
+
+- **[Next.js 16](https://nextjs.org)** - React framework for production
+- **[React 19](https://react.dev)** - JavaScript library for building user interfaces
+- **[TypeScript](https://www.typescriptlang.org)** - Typed superset of JavaScript
+- **[Tailwind CSS 4](https://tailwindcss.com)** - Utility-first CSS framework
+- **[Mongoose](https://mongoosejs.com)** - MongoDB object modeling
+- **[Cloudinary](https://cloudinary.com)** - Cloud-based image and video management
+- **[Lucide React](https://lucide.dev)** - Beautiful & consistent icons
+- **[PostHog](https://posthog.com)** - Product analytics platform
+- **[OGL](https://github.com/oframe/ogl)** - WebGL library
+- **[clsx](https://github.com/lukeed/clsx)** & **[tailwind-merge](https://github.com/dcastil/tailwind-merge)** - Utility for constructing className strings
+- **[class-variance-authority](https://cva.style/docs)** - CSS-in-TS variants
+
 ## Getting Started
 
 First, run the development server:
